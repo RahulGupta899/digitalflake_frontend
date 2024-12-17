@@ -1,5 +1,10 @@
 # Digitalflake_Admin_Frontend
 
+## Tech Used
+- Vite
+- React Version: 18.3.1
+- Styling: Tailwind CSS
+
 ## Clone the Repository
 ```bash
 git clone https://github.com/RahulGupta899/digitalflake_frontend
