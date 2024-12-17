@@ -20,4 +20,4 @@ npm install
 npm run dev
 ```
 
-![Application](https://github.com/user-attachments/assets/9d3c3222-322c-4615-a5e4-f30d91b659af)
+![Application](https://github.com/user-attachments/assets/d3942eb3-2b1f-47ab-98c8-7c0a8eb1a8af)
