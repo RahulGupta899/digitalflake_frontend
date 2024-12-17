@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.flex_row_centered {
+    @apply flex justify-center items-center;
+}
+
+.flex_row_between {
+    @apply flex justify-between items-center;
+}
