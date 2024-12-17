@@ -14,6 +14,11 @@ git clone https://github.com/RahulGupta899/digitalflake_frontend
 ```bash
 cd digitalflake_frontend
 ```
+## Create .env file
+```bash
+touch .env
+```
+_*Paste the provided environment variables in env file_
 
 ## Install Packages
 ```bash
